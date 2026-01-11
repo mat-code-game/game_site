@@ -4,9 +4,9 @@ Bienvenue sur la page **Mes jeux Scratch**, un petit site web que j’ai créé 
 
 ## 🌐 Démo en ligne
 
-👉 [Voir la page en ligne](https://mat-code-game.github.io/game_site/)  
+👉 [Voir la page en ligne](https://mat-code-game.github.io/scratch/)  
 
-ou lien court : [https://urlr.me/jy9vHw](https://urlr.me/jy9vHw)
+ou lien court : [urlr.me/9KyXcW](https://urlr.me/9KyXcW)
 
 ## 🎯 Description
 
