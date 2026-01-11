@@ -6,6 +6,8 @@ Bienvenue sur la page **Mes jeux Scratch**, un petit site web que j’ai créé 
 
 👉 [Voir la page en ligne](https://mat-code-game.github.io/game_site/)  
 
+ou lien court : [https://urlr.me/jy9vHw](https://urlr.me/jy9vHw)
+
 ## 🎯 Description
 
 Ce projet affiche mes créations Scratch directement sur une page web simple et propre.  
